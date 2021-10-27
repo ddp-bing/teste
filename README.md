@@ -1,2 +1,2 @@
 # teste-template
-The template repository for the teste course on Learning Lab.teste
+The template repository for the teste course on Learning Lab.teste 2
